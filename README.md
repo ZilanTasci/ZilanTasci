@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba! 👋 Ben [Adın]</h1>
+<h1 align="center">Merhaba! 👋 Ben [Zilan]</h1>
 
 <h3 align="center">Yönetim Bilişim Sistemleri (YBS) Öğrencisi & Yazılım Geliştirici Adayı 💻</h3>
 
